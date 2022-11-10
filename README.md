@@ -5,4 +5,7 @@ Repositorio backend de resultados, proyecto Misión Tic 2022 (registraduria), Ci
 
 ### Integrantes: 
 
-1. Carlos Eduardo Pacheco Ardila
+1. Carlos Enrique Sanchez Reyes
+2. Andres Felipe Aguirre Tapiero
+3. Carlos Eduardo Pacheco Ardila
+
