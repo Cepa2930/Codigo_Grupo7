@@ -1,6 +1,6 @@
-# results-backend
+# Codigo
 
-Repositorio backend de resultados, proyecto Misión Tic 2022 (registraduria), Ciclo 4A Grupo 15, Equipo 6 💻
+Repositorio de Codigo, proyecto Misión Tic 2022 (registraduria), Ciclo 4A Grupo 15, Equipo 7 💻
 
 ### Integrantes: 
 
